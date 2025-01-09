@@ -210,7 +210,7 @@ LEFT JOIN users u ON v.user_id = u.id
 LEFT JOIN products p ON v.product_id = p.id
 LEFT JOIN sales s ON v.product_id = s.product_id;
 ```
-## DASHBOARD
+## DASHBOARD Analysis
 ![Dashboard_screenshot](https://github.com/user-attachments/assets/d5cbfbfc-7e7a-40b6-a075-fc5a40ff8d6f)
 ## Vedio
 
