@@ -213,7 +213,8 @@ LEFT JOIN sales s ON v.product_id = s.product_id;
 ####DASHBOARD
 ![Dashboard_screenshot](https://github.com/user-attachments/assets/d5cbfbfc-7e7a-40b6-a075-fc5a40ff8d6f)
 ####Vedio
-https://github.com/user-attachments/assets/0012b61b-1376-4bc5-b9b9-9e0f2f97e73c
+
+https://github.com/user-attachments/assets/ec09051e-d7e6-411d-9ac2-7e480f04c943
 ### 6. Data Insertion into Elasticsearch
 
 Data from the enriched view was inserted into an Elasticsearch index:
